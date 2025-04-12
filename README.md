@@ -1,6 +1,6 @@
 # Ocelot : 한국어 자기소개서 첨삭 모델
 <p align="center" width="100%">
-![image](https://github.com/user-attachments/assets/7809b76f-4b74-4e08-acf0-f4d65fe6e7ef)
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/134501995/433024898-7809b76f-4b74-4e08-acf0-f4d65fe6e7ef.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250412%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250412T081314Z&X-Amz-Expires=300&X-Amz-Signature=4340b0640af9a3400904c0772761008bdb55c9b1f3f47841db5f44ff4456dcfe&X-Amz-SignedHeaders=host" alt="NLP Logo" style="width: 50%;">
 </p>
 
 ## Update Logs
