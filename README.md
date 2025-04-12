@@ -11,8 +11,7 @@
 **Resources and Technical Documentation**:
 * [Solar Model](https://huggingface.co/yanolja/EEVE-Korean-Instruct-10.8B-v1.0)
 
-**Model Developers**: frcp, nebchi, pepperonipizza97
-
+**Model Developers**: frcp, nebchi
 ## Model Information
 * 이번 Ocelot 모델은 한국어 LLM 모델에 합격 자기소개서를 기반으로 Alpaca 형식으로 미세조정(SFT)하여 첨삭에 특화된 한국어 sLLM 입니다.
 
